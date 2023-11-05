@@ -4,11 +4,11 @@
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>📺 Reports/Documentation Projectst</h2>
+<h2>📄 Reports/Documentation Projectst</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
-<h2>📺 Certifications</h2>
+<h2>✔️ Certifications</h2>
 
 - [Google Cybersecurity Professional](https://www.credly.com/badges/7d3e0ece-5148-4452-adcf-890642ea88a4/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/0d8afe91-f6d9-414f-9702-46af417f7156/public_url)
