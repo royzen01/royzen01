@@ -10,7 +10,8 @@
 
 <h2>📺 Certifications</h2>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0d8afe91-f6d9-414f-9702-46af417f7156" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+- [Google Cybersecurity Professional](https://www.credly.com/badges/7d3e0ece-5148-4452-adcf-890642ea88a4/public_url)
+- [CompTIA Security+](https://www.credly.com/badges/0d8afe91-f6d9-414f-9702-46af417f7156/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
