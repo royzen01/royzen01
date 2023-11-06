@@ -11,6 +11,7 @@
 - [Security Audit](https://github.com/royzen01/Security_Audit)
 - [Incident Response](https://github.com/royzen01/Incident_Response)
 - [SQL Filtering](https://github.com/royzen01/SQL_Filtering)
+- [Python File Update](https://github.com/royzen01/Python_File_Update)
 
 <h2>✔️ Certifications</h2>
 
