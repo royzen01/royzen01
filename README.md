@@ -7,7 +7,7 @@
 
 <h2>📄 Reports/Documentation Projectst</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Security Audit](https://github.com/royzen01/Security_Audit)
 
 <h2>✔️ Certifications</h2>
 
