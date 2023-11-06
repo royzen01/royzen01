@@ -10,6 +10,7 @@
 
 - [Security Audit](https://github.com/royzen01/Security_Audit)
 - [Incident Response](https://github.com/royzen01/Incident_Response)
+- [SQL Filtering](https://github.com/royzen01/SQL_Filtering)
 
 <h2>✔️ Certifications</h2>
 
