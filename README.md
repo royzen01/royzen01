@@ -6,13 +6,13 @@
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>📄 Reports/Documentation Projectst</h2>
+<h2>📄 Reports/Documentation Practice</h2>
 
 - [Security Audit](https://github.com/royzen01/Security_Audit)
 - [Incident Response](https://github.com/royzen01/Incident_Response)
 - [Network Attack Analysis](https://github.com/royzen01/Network_Attack_Analysis)
 
-<h2>📚  Misc Projectst</h2>
+<h2>📚  Misc Practice</h2>
 
 - [SQL Filtering](https://github.com/royzen01/SQL_Filtering)
 - [Python File Update](https://github.com/royzen01/Python_File_Update)
