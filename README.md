@@ -12,7 +12,7 @@
 - [Incident Response](https://github.com/royzen01/Incident_Response)
 - [Network Attack Analysis](https://github.com/royzen01/Network_Attack_Analysis)
 
-<h2>📚  Misc Practice</h2>
+<h2>📚 Other Experience</h2>
 
 - [SQL Filtering](https://github.com/royzen01/SQL_Filtering)
 - [Python File Update](https://github.com/royzen01/Python_File_Update)
