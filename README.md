@@ -6,7 +6,7 @@
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>📄 Reports/Documentation Practice</h2>
+<h2>📄 Reports/Documentation Experience</h2>
 
 - [Security Audit](https://github.com/royzen01/Security_Audit)
 - [Incident Response](https://github.com/royzen01/Incident_Response)
