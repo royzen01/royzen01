@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab (in Progress)]
 
 <h2>📄 Reports/Documentation</h2>
 
