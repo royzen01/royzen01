@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab (in Progress)]
+  - [Active Directory Home Lab](https://github.com/royzen01/Active_Directory_Lab)
 
 <h2>📄 Reports/Documentation</h2>
 
