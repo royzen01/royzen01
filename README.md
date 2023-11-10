@@ -1,4 +1,4 @@
-<h1>Hi, I'm Royland!
+<h1> <b>Hi, I'm Royland!</b>
   <br>
 <a href="https://linkedin.com/in/royland-sanchez">Cybersecurity Professional</a></h1>
 
