@@ -5,6 +5,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/royzen01/Active_Directory_Lab)
+  - [Homelab for Detection & Monitoring]
 
 <h2>📄 Reports/Documentation</h2>
 
