@@ -18,6 +18,7 @@
 
 - [SQL Filtering](https://github.com/royzen01/SQL_Filtering)
 - [Python File Update](https://github.com/royzen01/Python_File_Update)
+- [Linux File Permissions](https://github.com/royzen01/Linux_File_Permissions)
 
 <h2>✔️ Certifications</h2>
 
