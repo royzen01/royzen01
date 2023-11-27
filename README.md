@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
- ⭐ [Homelab for Detection & Monitoring (in-progress updated: 11/26/23)](https://github.com/royzen01/HL_Detection_and_Monitoring)
+ ⭐ [Homelab for Detection & Monitoring](https://github.com/royzen01/HL_Detection_and_Monitoring)
   - [Active Directory Homelab](https://github.com/royzen01/Active_Directory_Lab)
   
 
