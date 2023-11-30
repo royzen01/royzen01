@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
- ⭐ [Homelab for Detection & Monitoring](https://github.com/royzen01/HL_Detection_and_Monitoring)
+  - [Homelab for Detection & Monitoring](https://github.com/royzen01/HL_Detection_and_Monitoring)
   - [Active Directory Homelab](https://github.com/royzen01/Active_Directory_Lab)
   - [Azure Honeypot/Sentinel lab (in-progress)(updated: 11/28)](https://github.com/royzen01/Azure_Honeypot)
   
