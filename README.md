@@ -22,7 +22,7 @@
 
 <h2>✔️ Certifications</h2>
 
-- [Google Cybersecurity Professional](https://www.credly.com/badges/7d3e0ece-5148-4452-adcf-890642ea88a4/public_url)
+- [Google Cybersecurity](https://www.credly.com/badges/7d3e0ece-5148-4452-adcf-890642ea88a4/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/0d8afe91-f6d9-414f-9702-46af417f7156/public_url)
 
 ## 🤳 Connect with me: [<img align="center" alt="roysanchez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
