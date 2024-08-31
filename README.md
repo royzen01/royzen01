@@ -4,7 +4,6 @@
 
 <h2>👨‍💻 Cybersecurity Projects </h2>
 
-  - SOC Automation lab (On-going (Last update: 08/04/24))
   - [Azure Honeypot/Sentinel lab](https://github.com/royzen01/Azure_Honeypot)
   - [Homelab for Detection & Monitoring](https://github.com/royzen01/HL_Detection_and_Monitoring)
   - [Active Directory Homelab](https://github.com/royzen01/Active_Directory_Lab)
