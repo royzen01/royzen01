@@ -31,9 +31,10 @@
 - [Google Cybersecurity](https://www.credly.com/badges/7d3e0ece-5148-4452-adcf-890642ea88a4/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/0d8afe91-f6d9-414f-9702-46af417f7156/public_url)
 
-<h2>⏳ I Am Currently Working On</h2>
+<h2>⏳ I Am Currently Pursuing </h2>
 
 - [CompTIA CySA+](https://www.comptia.org/certifications/cybersecurity-analyst)
+- [Red Hat Certified System Administrator (RHCSA)](https://www.redhat.com/en/services/certification/rhcsa)
 - [THM SOC Level 1](https://tryhackme.com/paths)
 
 ## 🤳 Connect with me: [<img align="center" alt="roysanchez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
